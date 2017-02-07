@@ -1,1 +1,1 @@
-_idea_settings
+.idea WebStorm settings
